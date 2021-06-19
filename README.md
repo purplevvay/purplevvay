@@ -10,6 +10,7 @@ Twitter: twitter.com/Yellobus1
 SoundCloud: soundcloud/yellobus
 Audius: audius.co/yellobus
 Ubports Forum: forums.ubport.com/purplevvay
+Email: yellobus8@gmail.com
 
 <!---
 purplevvay/purplevvay is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
