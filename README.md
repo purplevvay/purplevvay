@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @purplevvay
 - 👀 I’m interested in: music production (no proprietary softwere anymore), music promotion, app development,design, 
-- 🌱 I’m currently learning: I don't even know. Working a radio.
+- 🌱 I’m currently learning: I don't even know. Working on a radio.
 - 💞️ I’m looking to collaborate on: Ubuntu Touch
 - 📫 How to reach me:
 Discord: yellobus#4893
