@@ -7,9 +7,9 @@ Discord: yellobus#4893
 YouTube: www.youtube.com/channel/UCnKB4Br_GiRLaSX3N2RSrtg
 Instagram: instagram.com/yellobusmusic
 Twitter: twitter.com/Yellobus1
-SoundCloud: soundcloud/yellobus
+SoundCloud: soundcloud.com/yellobus
 Audius: audius.co/yellobus
-Ubports Forum: forums.ubport.com/purplevvay
+Ubports Forum: forums.ubports.com/purplevvay
 Email: yellobus8@gmail.com
 
 <!---
